@@ -1,3 +1,17 @@
 .image-border {
-  border: solid 15px red;
+  border: solid 10px red;
+}
+
+img {
+  object-fit: cover;
+  width: 1000px;
+}
+
+#horns-up {
+  border: solid 10px blue;
+  border-radius: 50%;
+}
+
+#horns-up:hover {
+  border-radius: 0%;
 }
