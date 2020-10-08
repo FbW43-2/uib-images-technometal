@@ -15,3 +15,15 @@ img {
 #horns-up:hover {
   border-radius: 0%;
 }
+
+div {
+  width: 100%;
+}
+
+#Depeche-Mode {
+  float: right;
+}
+
+#U2 {
+  float: left;
+}
